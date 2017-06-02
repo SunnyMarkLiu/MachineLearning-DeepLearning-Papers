@@ -16,8 +16,7 @@ My Machine Learning & Deep Learning Papers Notes.
 - [x] [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift (2015) (Inception-v2)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Batch%20Normalization:%20Accelerating%20Deep%20Network%20Training%20by%20Reducing%20Internal%20Covariate%20Shift.pdf) :star::star::star::star:
 - [x] [Rethinking the Inception Architecture for Computer Vision (2015) (Inception-v3)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Rethinking%20the%20Inception%20Architecture%20for%20Computer%20Vision.pdf) :star::star::star:
 - [ ] Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning (2016) (Inception-v4, Inception-ResNet)
-- [ ] Highway Networks (2015)
-- [ ] Training Very Deep Networks (2015)
+- [ ] Training Very Deep Networks (2015) (Highway Networks)
 - [ ] Recurrent Highway Networks (2016)
 - [ ] Highway and Residual Networks learn Unrolled Iterative Estimation (2017)
 - [ ] Deep residual learning for image recognition (2016) (ResNet-v1)
