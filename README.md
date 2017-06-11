@@ -8,6 +8,7 @@ Machine Learning & Deep Learning Papers
 
 ## Computer Vision
 - [x] [ImageNet classification with deep convolutional neural networks (2012)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/ImageNet%20classification%20with%20deep%20convolutional%20neural%20networks.pdf)
+- [x] [Network In Network (2013)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Network%20In%20Network.pdf)
 
 ## Natural language processing
 
