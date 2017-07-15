@@ -1,0 +1,4 @@
+# some ignore files
+.idea
+logs
+git_push.sh
