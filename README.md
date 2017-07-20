@@ -11,7 +11,7 @@ My Machine Learning & Deep Learning Papers Notes.
 - [x] [ImageNet classification with deep convolutional neural networks (2012) (AlexNet, Deep Learning Breakthrough)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/ImageNet%20classification%20with%20deep%20convolutional%20neural%20networks.pdf) :star::star::star::star::star:
 - [x] [Network In Network (2013)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Network%20In%20Network.pdf) :star::star::star:
 - [ ] Maxout networks (2013) :star::star::star:
-- [ ] [Very deep convolutional networks for large-scale image recognition (2014) (VGGNet, become very deep)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Very%20deep%20convolutional%20networks%20for%20large-scale%20image%20recognition.pdf) :star::star::star::star:
+- [x] [Very deep convolutional networks for large-scale image recognition (2014) (VGGNet, become very deep)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Very%20deep%20convolutional%20networks%20for%20large-scale%20image%20recognition.pdf) :star::star::star::star:
 
 ## Natural language processing
 
