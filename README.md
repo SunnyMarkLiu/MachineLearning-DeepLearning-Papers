@@ -11,7 +11,7 @@ My Machine Learning & Deep Learning Papers Notes.
 - [x] [Maxout networks (2013) (new activation function approximate any convex function)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Maxout%20Networks.pdf) :star::star::star:
 - [x] [Network In Network (2013) (micro networks approximate any function)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Network%20In%20Network.pdf) :star::star::star:
 - [x] [Very deep convolutional networks for large-scale image recognition (2014) (VGGNet, become very deep)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Very%20deep%20convolutional%20networks%20for%20large-scale%20image%20recognition.pdf) :star::star::star::star:
-- [ ] Return of the devil in the details: delving deep into convolutional nets (2014)
+- [x] [Return of the devil in the details: delving deep into convolutional nets (2014)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Return%20of%20the%20Devil%20in%20the%20Details:%20Delving%20Deep%20into%20Convolutional%20Nets.pdf) :star::star:
 - [ ] Going deeper with convolutions (2015) (GoogLeNet, Inception-v1)
 - [ ] Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift (2015) (Inception-v2)
 - [ ] Rethinking the Inception Architecture for Computer Vision (2015) (Inception-v3)
