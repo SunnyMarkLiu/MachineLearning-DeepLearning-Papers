@@ -14,7 +14,7 @@ My Machine Learning & Deep Learning Papers Notes.
 - [x] [Return of the devil in the details: delving deep into convolutional nets (2014)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Return%20of%20the%20Devil%20in%20the%20Details:%20Delving%20Deep%20into%20Convolutional%20Nets.pdf) :star::star:
 - [x] [Going deeper with convolutions (2015) (GoogLeNet, Inception-v1)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Going%20deeper%20with%20convolutions.pdf) :star::star::star::star:
 - [x] [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift (2015) (Inception-v2)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Batch%20Normalization:%20Accelerating%20Deep%20Network%20Training%20by%20Reducing%20Internal%20Covariate%20Shift.pdf) :star::star::star::star:
-- [ ] Rethinking the Inception Architecture for Computer Vision (2015) (Inception-v3)
+- [x] [Rethinking the Inception Architecture for Computer Vision (2015) (Inception-v3)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Rethinking%20the%20Inception%20Architecture%20for%20Computer%20Vision.pdf) :star::star::star:
 - [ ] Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning (2016) (Inception-v4, Inception-ResNet)
 - [ ] Highway Networks
 - [ ] Deep residual learning for image recognition (2016) (ResNet-v1)
