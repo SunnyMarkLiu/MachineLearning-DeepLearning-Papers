@@ -20,7 +20,7 @@ My Machine Learning & Deep Learning Papers Notes.
 - [ ] Recurrent Highway Networks (2016)
 - [ ] Highway and Residual Networks learn Unrolled Iterative Estimation (2017)
 - [x] [Deep residual learning for image recognition (2016) (ResNet-v1)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Deep%20Residual%20Learning%20for%20Image%20Recognition.pdf) :star::star::star::star:
-- [ ] Identity Mappings in Deep Residual Networks (2016) (ResNet-v2)
+- [x] [Identity Mappings in Deep Residual Networks (2016) (ResNet-v2)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Identity%20Mappings%20in%20Deep%20Residual%20Networks.pdf) :star::star::star::star:
 - [ ] Aggregated Residual Transformations for Deep Neural Networks (2016) (ResNet-v3)
 - [ ] Wide Residual Networks (2016)
 - [ ] Residual Networks of Residual Networks: Multilevel Residual Networks (2016)
