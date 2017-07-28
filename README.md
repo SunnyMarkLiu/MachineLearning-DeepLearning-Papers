@@ -27,8 +27,26 @@ My Machine Learning & Deep Learning Papers Notes.
 - [ ] Densely Connected Convolutional Networks (2016)
 
 ### Natural Language Processing
-- [ ] A Primer on Neural Network Models for Natural Language Processing
-- [ ] Natural Language Processing (Almost) from Scratch
+- [ ] A Primer on Neural Network Models for Natural Language Processing :star::star::star::star:
+- [ ] Natural Language Processing (Almost) from Scratch :star::star::star::star:
+- [ ] Joint Learning of Words and Meaning Representations for Open-Text Semantic Parsing (2012) :star::star::star::star:
+- [ ] Distributed representations of words and phrases and their compositionality (2013)(word2vec) :star::star::star::star:
+- [ ] Efficient estimation of word representations in vector space (2013) :star::star::star::star:
+- [ ] Distributed representations of sentences and documents (2014)
+- [ ] Glove: Global vectors for word representation (2014)
+- [ ] Convolutional neural networks for sentence classification (2014):star::star::star::star:
+- [ ] A convolutional neural network for modeling sentences (2014):star::star::star::star:
+- [ ] Recursive deep models for semantic compositionality over a sentiment treebank (2013) :star::star::star::star:
+- [ ] Sequence to sequence learning with neural networks (2014) :star::star::star::star:
+- [ ] Generating sequences with recurrent neural networks (2013)(LSTM, very nice generating result, show the power of RNN) :star::star::star::star:
+- [ ] Learning phrase representations using RNN encoder-decoder for statistical machine translation (2014) :star::star::star::star:
+- [ ] Sequence to sequence learning with neural networks (2014)(Outstanding Work) :star::star::star::star::star:
+- [ ] Ask Me Anything: Dynamic Memory Networks for Natural Language Processing (2015) :star::star::star::star:
+- [ ] Character-Aware Neural Language Models (2015) :star::star::star::star:
+- [ ] Teaching Machines to Read and Comprehend (2015)(CNN/DailyMail cloze style questions) :star::star::star:
+- [ ] Very Deep Convolutional Networks for Natural Language Processing (2016)(state-of-the-art in text classification) :star::star::star:
+- [ ] Bag of Tricks for Efficient Text Classification (2016)(slightly worse than state-of-the-art, but a lot faster) :star::star::star:
+
 
 ## License
 ![hello](https://camo.githubusercontent.com/0be34709e630f7cbb96012fb1a48139bc5d45f07/68747470733a2f2f7777772e676f6f676c652e636f6d2f6c6f676f732f646f6f646c65732f323031362f74656163686572732d6461792d323031362d75732d363239363632363234343039313930342e322d687032782e676966)
