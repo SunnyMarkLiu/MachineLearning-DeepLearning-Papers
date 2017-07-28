@@ -26,7 +26,7 @@ My Machine Learning & Deep Learning Papers Notes.
 - [ ] Residual Networks of Residual Networks: Multilevel Residual Networks (2016)
 - [ ] Densely Connected Convolutional Networks (2016)
 
-### Natural language processing
+### Natural Language Processing
 - [ ] A Primer on Neural Network Models for Natural Language Processing
 - [ ] Natural Language Processing (Almost) from Scratch
 
