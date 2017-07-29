@@ -6,7 +6,12 @@ My Machine Learning & Deep Learning Papers Notes.
 - [x] [Distance-based features in pattern classification (2011) (feature engineering)](https://github.com/SunnyMarkLiu/Papers/blob/master/Machine%20Learning/Distance-based%20features%20in%20pattern%20classification.pdf) :star::star:
 - [x] [A Few Useful Things to Know about Machine Learning (2012) (basic ml concepts)](https://github.com/SunnyMarkLiu/Papers/blob/master/Machine%20Learning/A%20Few%20Useful%20Things%20to%20Know%20about%20Machine%20Learning.pdf) :star::star::star::star::star:
 
-### Computer Vision
+### Deep Learning
+- [ ] Understanding the difficulty of training deep feedforward neural networks (2010)
+- [ ] On the importance of initialization and momentum in deep learning (2013)
+- [ ] Accelerating learning via knowledge transfer (2016)(Net2net)
+
+#### Computer Vision
 - [x] [ImageNet classification with deep convolutional neural networks (2012) (AlexNet, Deep Learning Breakthrough)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/ImageNet%20classification%20with%20deep%20convolutional%20neural%20networks.pdf) :star::star::star::star::star:
 - [x] [Maxout networks (2013) (new activation function approximate any convex function)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Maxout%20Networks.pdf) :star::star::star:
 - [x] [Network In Network (2013) (micro networks approximate any function)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Network%20In%20Network.pdf) :star::star::star:
@@ -21,12 +26,12 @@ My Machine Learning & Deep Learning Papers Notes.
 - [ ] Highway and Residual Networks learn Unrolled Iterative Estimation (2017)
 - [x] [Deep residual learning for image recognition (2016) (ResNet-v1)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Deep%20Residual%20Learning%20for%20Image%20Recognition.pdf) :star::star::star::star:
 - [x] [Identity Mappings in Deep Residual Networks (2016) (ResNet-v2)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Identity%20Mappings%20in%20Deep%20Residual%20Networks.pdf) :star::star::star::star:
-- [x] [Aggregated Residual Transformations for Deep Neural Networks (2016) (ResNet-v3)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Aggregated%20Residual%20Transformations%20for%20Deep%20Neural%20Networks.pdf) :star::star::star:
 - [ ] Wide Residual Networks (2016)
+- [x] [Aggregated Residual Transformations for Deep Neural Networks (2016) (ResNet-v3)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Aggregated%20Residual%20Transformations%20for%20Deep%20Neural%20Networks.pdf) :star::star::star:
 - [ ] Residual Networks of Residual Networks: Multilevel Residual Networks (2016)
 - [ ] Densely Connected Convolutional Networks (2016)
 
-### Natural Language Processing
+#### Natural Language Processing
 - [ ] A Primer on Neural Network Models for Natural Language Processing :star::star::star::star:
 - [ ] Natural Language Processing (Almost) from Scratch :star::star::star::star:
 - [ ] Joint Learning of Words and Meaning Representations for Open-Text Semantic Parsing (2012) :star::star::star::star:
