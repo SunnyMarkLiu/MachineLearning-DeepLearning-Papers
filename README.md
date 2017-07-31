@@ -28,7 +28,7 @@ My Machine Learning & Deep Learning Papers Notes.
 - [x] [Identity Mappings in Deep Residual Networks (2016) (ResNet-v2)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Identity%20Mappings%20in%20Deep%20Residual%20Networks.pdf) :star::star::star::star:
 - [x] [Wide Residual Networks (2016)(more kernels in residual blocks, widen k times)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Wide%20Residual%20Networks.pdf) :star::star::star::star:
 - [x] [Aggregated Residual Transformations for Deep Neural Networks (2016) (ResNet-v3, ResNeXt)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Aggregated%20Residual%20Transformations%20for%20Deep%20Neural%20Networks.pdf) :star::star::star::star:
-- [ ] Residual Networks of Residual Networks: Multilevel Residual Networks (2016)
+- [x] Residual Networks of Residual Networks: Multilevel Residual Networks (2016)
 - [ ] Densely Connected Convolutional Networks (2016)
 
 #### Natural Language Processing
