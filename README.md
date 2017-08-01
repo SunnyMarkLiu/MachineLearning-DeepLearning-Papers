@@ -13,15 +13,15 @@ My Machine Learning & Deep Learning Papers Notes.
 
 #### Computer Vision
 - [x] [ImageNet classification with deep convolutional neural networks (2012) (AlexNet, Deep Learning Breakthrough)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/ImageNet%20classification%20with%20deep%20convolutional%20neural%20networks.pdf) :star::star::star::star::star:
-- [x] [Maxout networks (2013) (new activation function approximate any convex function)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Maxout%20Networks.pdf) :star::star::star:
-- [x] [Network In Network (2013) (micro networks approximate any function)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Network%20In%20Network.pdf) :star::star::star:
-- [x] [Very deep convolutional networks for large-scale image recognition (2014) (VGGNet, become very deep)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Very%20deep%20convolutional%20networks%20for%20large-scale%20image%20recognition.pdf) :star::star::star::star:
-- [x] [Return of the devil in the details: delving deep into convolutional nets (2014)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Return%20of%20the%20Devil%20in%20the%20Details:%20Delving%20Deep%20into%20Convolutional%20Nets.pdf) :star::star:
-- [x] [Going deeper with convolutions (2015) (GoogLeNet, Inception-v1)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Going%20deeper%20with%20convolutions.pdf) :star::star::star::star:
-- [x] [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift (2015) (Inception-v2)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Batch%20Normalization:%20Accelerating%20Deep%20Network%20Training%20by%20Reducing%20Internal%20Covariate%20Shift.pdf) :star::star::star::star:
-- [x] [Rethinking the Inception Architecture for Computer Vision (2015) (Inception-v3)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Rethinking%20the%20Inception%20Architecture%20for%20Computer%20Vision.pdf) :star::star::star:
-- [ ] Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning (2016) (Inception-v4, Inception-ResNet)
-- [x] [Training Very Deep Networks (2015) (Highway Networks)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Training%20Very%20Deep%20Networks.pdf) :star::star::star::star:
+- [x] [Maxout networks (2013.02) (new activation function approximate any convex function)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Maxout%20Networks.pdf) :star::star::star:
+- [x] [Network In Network (2013.12) (micro networks approximate any function)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Network%20In%20Network.pdf) :star::star::star:
+- [x] [Very deep convolutional networks for large-scale image recognition (2014.09) (VGGNet, become very deep)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Very%20deep%20convolutional%20networks%20for%20large-scale%20image%20recognition.pdf) :star::star::star::star:
+- [x] [Return of the devil in the details: delving deep into convolutional nets (2014.05)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Return%20of%20the%20Devil%20in%20the%20Details:%20Delving%20Deep%20into%20Convolutional%20Nets.pdf) :star::star:
+- [x] [Going deeper with convolutions (2014.09) (GoogLeNet, Inception-v1)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Going%20deeper%20with%20convolutions.pdf) :star::star::star::star:
+- [x] [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift (2015.02) (Inception-v2)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Batch%20Normalization:%20Accelerating%20Deep%20Network%20Training%20by%20Reducing%20Internal%20Covariate%20Shift.pdf) :star::star::star::star:
+- [x] [Rethinking the Inception Architecture for Computer Vision (2015.12) (Inception-v3)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Rethinking%20the%20Inception%20Architecture%20for%20Computer%20Vision.pdf) :star::star::star:
+- [ ] Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning (2016.02) (Inception-v4, Inception-ResNet)
+- [x] [Training Very Deep Networks (2015.07) (Highway Networks)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Training%20Very%20Deep%20Networks.pdf) :star::star::star::star:
 - [ ] Recurrent Highway Networks (2016.07)
 - [ ] Highway and Residual Networks learn Unrolled Iterative Estimation (2016.12)
 - [x] [Deep residual learning for image recognition (2015.12) (ResNet-v1)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Deep%20Residual%20Learning%20for%20Image%20Recognition.pdf) :star::star::star::star:
