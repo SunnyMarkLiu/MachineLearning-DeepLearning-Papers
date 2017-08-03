@@ -30,7 +30,7 @@ My Machine Learning & Deep Learning Papers Notes.
 - [ ] Deep Networks with Stochastic Depth (2016.03)
 - [ ] FractalNet: Ultra-Depp neural networks without residuals (2016.05)
 - [x] [Residual Networks of Residual Networks: Multilevel Residual Networks (2016.08)(RoR,  residual mapping of residual mapping)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Residual%20Networks%20of%20Residual%20Networks%20Multilevel%20Residual%20Networks.pdf) :star::star::star::star::star:
-- [x] [Densely Connected Convolutional Networks (2016.08)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Densely%20Connected%20Convolutional%20Networks.pdf) :star::star::star::star:
+- [x] [Densely Connected Convolutional Networks (2016.08)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Densely%20Connected%20Convolutional%20Networks.pdf) :star::star::star::star::star:
 - [x] [Aggregated Residual Transformations for Deep Neural Networks (2016.11) (ResNet-v3, ResNeXt)](https://github.com/SunnyMarkLiu/Papers/blob/master/Computer%20Vision/Aggregated%20Residual%20Transformations%20for%20Deep%20Neural%20Networks.pdf) :star::star::star::star:
 
 
