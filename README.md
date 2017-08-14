@@ -7,7 +7,7 @@ My Machine Learning & Deep Learning Papers Notes.
 - [x] [A Few Useful Things to Know about Machine Learning (2012) (basic ml concepts)](https://github.com/SunnyMarkLiu/Papers/blob/master/Machine%20Learning/A%20Few%20Useful%20Things%20to%20Know%20about%20Machine%20Learning.pdf) :star::star::star::star::star:
 
 ### Deep Learning
-- [ ] Understanding the difficulty of training deep feedforward neural networks (2010)
+- [x] [Understanding the difficulty of training deep feedforward neural networks (2010)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Understanding%20the%20difficulty%20of%20training%20deep%20feedforward%20neural%20networks.pdf) :star::star::star:
 - [ ] On the importance of initialization and momentum in deep learning (2013)
 - [ ] Accelerating learning via knowledge transfer (2016)(Net2net)
 
