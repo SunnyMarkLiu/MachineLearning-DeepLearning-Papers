@@ -20,7 +20,7 @@ My Machine Learning & Deep Learning Papers Notes.
 - [x] [Going deeper with convolutions (2014.09) (GoogLeNet, Inception-v1)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Computer%20Vision/Going%20deeper%20with%20convolutions.pdf) :star::star::star::star:
 - [x] [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift (2015.02) (Inception-v2)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Computer%20Vision/Batch%20Normalization:%20Accelerating%20Deep%20Network%20Training%20by%20Reducing%20Internal%20Covariate%20Shift.pdf) :star::star::star::star:
 - [x] [Rethinking the Inception Architecture for Computer Vision (2015.12) (Inception-v3)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Computer%20Vision/Rethinking%20the%20Inception%20Architecture%20for%20Computer%20Vision.pdf) :star::star::star:
-- [ ] Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning (2016.02) (Inception-v4, Inception-ResNet)
+- [x] [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning (2016.02) (Inception-v4, Inception-ResNet)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Computer%20Vision/Inception-v4%2C%20Inception-ResNet%20and%20the%20Impact%20of%20Residual%20Connections%20on%20Learning.pdf) :star::star:
 - [x] [Training Very Deep Networks (2015.07) (Highway Networks)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Computer%20Vision/Training%20Very%20Deep%20Networks.pdf) :star::star::star:
 - [ ] Recurrent Highway Networks (2016.07)
 - [ ] Highway and Residual Networks learn Unrolled Iterative Estimation (2016.12)
