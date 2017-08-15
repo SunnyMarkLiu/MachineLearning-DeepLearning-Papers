@@ -22,17 +22,15 @@ My Machine Learning & Deep Learning Papers Notes.
 - [x] [Rethinking the Inception Architecture for Computer Vision (2015.12) (Inception-v3)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Computer%20Vision/Rethinking%20the%20Inception%20Architecture%20for%20Computer%20Vision.pdf) :star::star::star:
 - [x] [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning (2016.02) (Inception-v4, Inception-ResNet)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Computer%20Vision/Inception-v4%2C%20Inception-ResNet%20and%20the%20Impact%20of%20Residual%20Connections%20on%20Learning.pdf) :star::star:
 - [x] [Training Very Deep Networks (2015.07) (Highway Networks)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Computer%20Vision/Training%20Very%20Deep%20Networks.pdf) :star::star::star:
-- [ ] Recurrent Highway Networks (2016.07)
-- [ ] Highway and Residual Networks learn Unrolled Iterative Estimation (2016.12)
 - [x] [Deep residual learning for image recognition (2015.12) (ResNet-v1)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Computer%20Vision/Deep%20Residual%20Learning%20for%20Image%20Recognition.pdf) :star::star::star::star:
 - [x] [Identity Mappings in Deep Residual Networks (2016.03) (ResNet-v2)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Computer%20Vision/Identity%20Mappings%20in%20Deep%20Residual%20Networks.pdf) :star::star::star::star:
 - [x] [Wide Residual Networks (2016.05)(more kernels in residual blocks, widen k times)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Computer%20Vision/Wide%20Residual%20Networks.pdf) :star::star::star:
 - [ ] Deep Networks with Stochastic Depth (2016.03)
 - [ ] FractalNet: Ultra-Depp neural networks without residuals (2016.05)
 - [x] [Residual Networks of Residual Networks: Multilevel Residual Networks (2016.08)(RoR,  residual mapping of residual mapping)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Computer%20Vision/Residual%20Networks%20of%20Residual%20Networks%20Multilevel%20Residual%20Networks.pdf) :star::star::star:
+- [ ] Residual Networks Behave Like Ensembles of Relatively Shallow Networks (2016.05)(interpretation of resnet)
 - [x] [Densely Connected Convolutional Networks (2016.08)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Computer%20Vision/Densely%20Connected%20Convolutional%20Networks.pdf) :star::star::star::star:
 - [x] [Aggregated Residual Transformations for Deep Neural Networks (2016.11) (ResNet-v3, ResNeXt)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Computer%20Vision/Aggregated%20Residual%20Transformations%20for%20Deep%20Neural%20Networks.pdf) :star::star::star:
-
 
 #### Natural Language Processing
 - [ ] A Primer on Neural Network Models for Natural Language Processing :star::star::star::star:
@@ -55,6 +53,8 @@ My Machine Learning & Deep Learning Papers Notes.
 - [ ] Very Deep Convolutional Networks for Natural Language Processing (2016)(state-of-the-art in text classification) :star::star::star:
 - [ ] Bag of Tricks for Efficient Text Classification (2016)(slightly worse than state-of-the-art, but a lot faster) :star::star::star:
 
+### Applications
+- [ ] A Neural Algorithm of Artistic Style (2015.08)(neural style)
 
 ## License
 ![hello](https://camo.githubusercontent.com/0be34709e630f7cbb96012fb1a48139bc5d45f07/68747470733a2f2f7777772e676f6f676c652e636f6d2f6c6f676f732f646f6f646c65732f323031362f74656163686572732d6461792d323031362d75732d363239363632363234343039313930342e322d687032782e676966)
