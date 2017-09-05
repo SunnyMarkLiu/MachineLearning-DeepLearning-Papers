@@ -35,7 +35,7 @@ My Machine Learning & Deep Learning Papers Notes.
 #### Natural Language Processing
 - [x] [A Primer on Neural Network Models for Natural Language Processing (2015.10)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/A%20Primer%20on%20Neural%20Network%20Models%20for%20Natural%20Language%20Processing.pdf) :star::star::star:
 - [ ] Efficient estimation of word representations in vector space (2013)(CBOW, skip-gram) :star::star::star::star:
-- [x] [Distributed representations of words and phrases and their compositionality (2013)(word2vec)]() :star::star::star::star:
+- [x] [Distributed representations of words and phrases and their compositionality (2013.10)(word2vec)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Distributed%20representations%20of%20words%20and%20phrases%20and%20their%20compositionality.pdf) :star::star::star::star:
 - [ ] Distributed representations of sentences and documents (2014)
 - [ ] Glove: Global vectors for word representation (2014)
 - [ ] Convolutional neural networks for sentence classification (2014):star::star::star::star:
