@@ -33,9 +33,7 @@ My Machine Learning & Deep Learning Papers Notes.
 - [x] [Aggregated Residual Transformations for Deep Neural Networks (2016.11) (ResNet-v3, ResNeXt)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Computer%20Vision/Aggregated%20Residual%20Transformations%20for%20Deep%20Neural%20Networks.pdf) :star::star::star:
 
 #### Natural Language Processing
-- [ ] A Primer on Neural Network Models for Natural Language Processing :star::star::star::star:
-- [ ] Natural Language Processing (Almost) from Scratch :star::star::star::star:
-- [ ] Joint Learning of Words and Meaning Representations for Open-Text Semantic Parsing (2012) :star::star::star::star:
+- [x] A Primer on Neural Network Models for Natural Language Processing :star::star::star:
 - [ ] Distributed representations of words and phrases and their compositionality (2013)(word2vec) :star::star::star::star:
 - [ ] Efficient estimation of word representations in vector space (2013) :star::star::star::star:
 - [ ] Distributed representations of sentences and documents (2014)
