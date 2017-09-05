@@ -33,9 +33,9 @@ My Machine Learning & Deep Learning Papers Notes.
 - [x] [Aggregated Residual Transformations for Deep Neural Networks (2016.11) (ResNet-v3, ResNeXt)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Computer%20Vision/Aggregated%20Residual%20Transformations%20for%20Deep%20Neural%20Networks.pdf) :star::star::star:
 
 #### Natural Language Processing
-- [x] A Primer on Neural Network Models for Natural Language Processing :star::star::star:
-- [ ] Distributed representations of words and phrases and their compositionality (2013)(word2vec) :star::star::star::star:
-- [ ] Efficient estimation of word representations in vector space (2013) :star::star::star::star:
+- [x] [A Primer on Neural Network Models for Natural Language Processing (2015.10)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/A%20Primer%20on%20Neural%20Network%20Models%20for%20Natural%20Language%20Processing.pdf) :star::star::star:
+- [ ] Efficient estimation of word representations in vector space (2013)(CBOW, skip-gram) :star::star::star::star:
+- [x] [Distributed representations of words and phrases and their compositionality (2013)(word2vec)]() :star::star::star::star:
 - [ ] Distributed representations of sentences and documents (2014)
 - [ ] Glove: Global vectors for word representation (2014)
 - [ ] Convolutional neural networks for sentence classification (2014):star::star::star::star:
