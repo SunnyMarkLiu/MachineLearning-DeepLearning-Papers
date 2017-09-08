@@ -34,22 +34,44 @@ My Machine Learning & Deep Learning Papers Notes.
 
 #### Natural Language Processing
 - [x] [A Primer on Neural Network Models for Natural Language Processing (2015.10)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/A%20Primer%20on%20Neural%20Network%20Models%20for%20Natural%20Language%20Processing.pdf) :star::star::star:
+- [ ] On the difficulty of training recurrent neural networks
+
+##### Word Embedding
 - [ ] Efficient estimation of word representations in vector space (2013)(CBOW, skip-gram) :star::star::star::star:
 - [x] [Distributed representations of words and phrases and their compositionality (2013.10)(word2vec)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Distributed%20representations%20of%20words%20and%20phrases%20and%20their%20compositionality.pdf) :star::star::star::star:
 - [ ] Distributed representations of sentences and documents (2014)
 - [ ] Glove: Global vectors for word representation (2014)
-- [ ] Convolutional neural networks for sentence classification (2014):star::star::star::star:
+
+##### Language Modeling
+- [ ] Recurrent neural network based language model (2010)(language modeling)
+- [ ] Extensions of Recurrent neural network based language model (2011.06)(language modeling)
+- [ ] Generating Text with Recurrent Neural Networks (2011)
+- [ ] Generating Sequences With Recurrent Neural Networks (2013.08)
 - [ ] A convolutional neural network for modeling sentences (2014):star::star::star::star:
-- [ ] Recursive deep models for semantic compositionality over a sentiment treebank (2013) :star::star::star::star:
-- [ ] Sequence to sequence learning with neural networks (2014) :star::star::star::star:
-- [ ] Generating sequences with recurrent neural networks (2013)(LSTM, very nice generating result, show the power of RNN) :star::star::star::star:
+- [ ] Character-Aware Neural Language Models (2015) :star::star::star::star:
+
+##### Generating Text
+- [ ] Generating Text with Recurrent Neural Networks (2011)
+- [ ] Generating sequences with recurrent neural networks (2013.08)(LSTM, very nice generating result, show the power of RNN) :star::star::star::star:
+
+##### Machine Translation
+- [ ] A Recursive Recurrent Neural Network for Statistical Machine Translation
+- [ ] Joint Language and Translation Modeling with Recurrent Neural Networks
 - [ ] Learning phrase representations using RNN encoder-decoder for statistical machine translation (2014) :star::star::star::star:
 - [ ] Sequence to sequence learning with neural networks (2014)(Outstanding Work) :star::star::star::star::star:
-- [ ] Ask Me Anything: Dynamic Memory Networks for Natural Language Processing (2015) :star::star::star::star:
-- [ ] Character-Aware Neural Language Models (2015) :star::star::star::star:
-- [ ] Teaching Machines to Read and Comprehend (2015)(CNN/DailyMail cloze style questions) :star::star::star:
+
+##### Sentence classification
+- [ ] Convolutional neural networks for sentence classification (2014):star::star::star::star:
 - [ ] Very Deep Convolutional Networks for Natural Language Processing (2016)(state-of-the-art in text classification) :star::star::star:
 - [ ] Bag of Tricks for Efficient Text Classification (2016)(slightly worse than state-of-the-art, but a lot faster) :star::star::star:
+
+##### Speech Recognition
+- [ ] Towards End-to-End Speech Recognition with Recurrent Neural Networks
+
+##### Others
+- [ ] Recursive deep models for semantic compositionality over a sentiment treebank (2013) :star::star::star::star:
+- [ ] Ask Me Anything: Dynamic Memory Networks for Natural Language Processing (2015) :star::star::star::star:
+- [ ] Teaching Machines to Read and Comprehend (2015)(CNN/DailyMail cloze style questions) :star::star::star:
 - [ ] A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks (2016.11)
 
 ### Applications
