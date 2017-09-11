@@ -44,7 +44,7 @@ My Machine Learning & Deep Learning Papers Notes.
 
 ##### Language Modeling
 - [x] [Recurrent neural network based language model (2010)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Recurrent%20neural%20network%20based%20language%20model.pdf) :star::star:
-- [ ] Extensions of Recurrent neural network based language model (2011.06)
+- [x] [Extensions of Recurrent neural network based language model (2011.06)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Extensions%20of%20Recurrent%20neural%20network%20based%20language%20model.pdf) :star::star:
 - [ ] Generating Sequences With Recurrent Neural Networks (2013.08)
 - [ ] A convolutional neural network for modeling sentences (2014):star::star::star::star:
 - [ ] Character-Aware Neural Language Models (2015) :star::star::star::star:
