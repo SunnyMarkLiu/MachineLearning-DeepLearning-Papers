@@ -50,7 +50,7 @@ My Machine Learning & Deep Learning Papers Notes.
 - [ ] Character-Aware Neural Language Models (2015) :star::star::star::star:
 
 ##### Generating Text
-- [ ] Generating Text with Recurrent Neural Networks (2011)
+- [x] [Generating Text with Recurrent Neural Networks (2011)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Generating%20Text%20with%20Recurrent%20Neural%20Networks.pdf) :star::star::star:
 - [ ] Generating sequences with recurrent neural networks (2013.08)(LSTM, very nice generating result, show the power of RNN) :star::star::star::star:
 
 ##### Machine Translation
