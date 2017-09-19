@@ -51,10 +51,13 @@ My Machine Learning & Deep Learning Papers Notes.
 - [ ] Generating sequences with recurrent neural networks (2013.08)(LSTM, very nice generating result, show the power of RNN) :star::star::star::star:
 
 ##### Recurrent Neural Networks
-- [ ] Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling
-- [ ] Gated Feedback Recurrent Neural Networks (GRU)
+- [ ] Bidirectional Recurrent Neural Networks (1997)
+- [ ] Speech Recognition with Deep Recurrent Neural Networks (2013.03)(Deep Bidirectional RNNs)
+- [ ] Learning phrase representations using rnn encoder-decoder for statistical machine translation (2014.06)(GRU)
+- [ ] Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling (2014.12)(LSTM vs GRU)
+- [ ] Gated Feedback Recurrent Neural Networks (GF-RNN)
+- [ ] A Clockwork RNN
 - [ ] Recurrent Neural Network Regularization
-- [ ] Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling
 
 ##### Machine Translation
 - [ ] A Recursive Recurrent Neural Network for Statistical Machine Translation
