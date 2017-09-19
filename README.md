@@ -45,13 +45,18 @@ My Machine Learning & Deep Learning Papers Notes.
 ##### Language Modeling
 - [x] [Recurrent neural network based language model (2010)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Recurrent%20neural%20network%20based%20language%20model.pdf) :star::star:
 - [x] [Extensions of Recurrent neural network based language model (2011.06)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Extensions%20of%20Recurrent%20neural%20network%20based%20language%20model.pdf) :star::star:
-- [ ] Generating Sequences With Recurrent Neural Networks (2013.08)
 - [ ] A convolutional neural network for modeling sentences (2014):star::star::star::star:
 - [ ] Character-Aware Neural Language Models (2015) :star::star::star::star:
 
 ##### Generating Text
 - [x] [Generating Text with Recurrent Neural Networks (2011)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Generating%20Text%20with%20Recurrent%20Neural%20Networks.pdf) :star::star::star:
 - [ ] Generating sequences with recurrent neural networks (2013.08)(LSTM, very nice generating result, show the power of RNN) :star::star::star::star:
+
+##### Recurrent Neural Networks
+- [ ] Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling
+- [ ] Gated Feedback Recurrent Neural Networks (GRU)
+- [ ] Recurrent Neural Network Regularization
+- [ ] Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling
 
 ##### Machine Translation
 - [ ] A Recursive Recurrent Neural Network for Statistical Machine Translation
