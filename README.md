@@ -54,6 +54,7 @@ My Machine Learning & Deep Learning Papers Notes.
 - [ ] Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks (2006.icml)
 - [x] [Bidirectional Recurrent Neural Networks (1997)](https://github.com/SunnyMarkLiu/MachineLearning-DeepLearning-Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Bidirectional%20Recurrent%20Neural%20Networks.pdf) :star::star:
 - [x] [Speech Recognition with Deep Recurrent Neural Networks (2013.03)(Deep Bidirectional RNNs)](https://github.com/SunnyMarkLiu/MachineLearning-DeepLearning-Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Speech%20Recognition%20with%20Deep%20Recurrent%20Neural%20Networks.pdf) :star::star::star::star:
+- [ ] How to Construct Deep Recurrent Neural Networks (2013.12)
 - [ ] A Clockwork RNN (2014.02)
 - [ ] Learning phrase representations using rnn encoder-decoder for statistical machine translation (2014.06)(GRU)
 - [x] [Recurrent Neural Network Regularization (2014.09)](https://github.com/SunnyMarkLiu/MachineLearning-DeepLearning-Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Recurrent%20Neural%20Network%20Regularization.pdf) :star::star::star:
