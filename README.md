@@ -33,7 +33,7 @@ My Machine Learning & Deep Learning Papers Notes.
 - [x] [Aggregated Residual Transformations for Deep Neural Networks (2016.11) (ResNet-v3, ResNeXt)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Computer%20Vision/Aggregated%20Residual%20Transformations%20for%20Deep%20Neural%20Networks.pdf) :star::star::star:
 
 #### Natural Language Processing
-- [z] [Preprocessing Techniques for Text Mining - An Overview (2015.05)](https://github.com/SunnyMarkLiu/MachineLearning-DeepLearning-Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Preprocessing%20Techniques%20for%20Text%20Mining%20-%20An%20Overview.pdf) :star::star:
+- [x] [Preprocessing Techniques for Text Mining - An Overview (2015.05)](https://github.com/SunnyMarkLiu/MachineLearning-DeepLearning-Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Preprocessing%20Techniques%20for%20Text%20Mining%20-%20An%20Overview.pdf) :star::star:
 - [x] [A Primer on Neural Network Models for Natural Language Processing (2015.10)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/A%20Primer%20on%20Neural%20Network%20Models%20for%20Natural%20Language%20Processing.pdf) :star::star::star:
 - [ ] On the difficulty of training recurrent neural networks
 
