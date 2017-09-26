@@ -33,6 +33,7 @@ My Machine Learning & Deep Learning Papers Notes.
 - [x] [Aggregated Residual Transformations for Deep Neural Networks (2016.11) (ResNet-v3, ResNeXt)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Computer%20Vision/Aggregated%20Residual%20Transformations%20for%20Deep%20Neural%20Networks.pdf) :star::star::star:
 
 #### Natural Language Processing
+- [ ] Preprocessing Techniques for Text Mining - An Overview (2015.05)
 - [x] [A Primer on Neural Network Models for Natural Language Processing (2015.10)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/A%20Primer%20on%20Neural%20Network%20Models%20for%20Natural%20Language%20Processing.pdf) :star::star::star:
 - [ ] On the difficulty of training recurrent neural networks
 
@@ -54,6 +55,7 @@ My Machine Learning & Deep Learning Papers Notes.
 - [ ] Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks (2006.icml)
 - [x] [Bidirectional Recurrent Neural Networks (1997)](https://github.com/SunnyMarkLiu/MachineLearning-DeepLearning-Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Bidirectional%20Recurrent%20Neural%20Networks.pdf) :star::star:
 - [x] [Speech Recognition with Deep Recurrent Neural Networks (2013.03)(Deep Bidirectional RNNs)](https://github.com/SunnyMarkLiu/MachineLearning-DeepLearning-Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Speech%20Recognition%20with%20Deep%20Recurrent%20Neural%20Networks.pdf) :star::star::star::star:
+- [ ] Recurrent Convolutional Neural Networks for Scene Parsing (2013.06)
 - [x] [How to Construct Deep Recurrent Neural Networks (2013.12)](https://github.com/SunnyMarkLiu/MachineLearning-DeepLearning-Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/How%20to%20Construct%20Deep%20Recurrent%20Neural%20Networks.pdf) :star::star::star::star:
 - [ ] A Clockwork RNN (2014.02)
 - [ ] Learning phrase representations using rnn encoder-decoder for statistical machine translation (2014.06)(GRU)
