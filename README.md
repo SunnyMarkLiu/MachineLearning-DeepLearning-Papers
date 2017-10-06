@@ -42,6 +42,7 @@ My Machine Learning & Deep Learning Papers Notes.
 - [x] [Distributed representations of words and phrases and their compositionality (2013.10)(word2vec)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Distributed%20representations%20of%20words%20and%20phrases%20and%20their%20compositionality.pdf) :star::star::star::star:
 - [ ] Distributed representations of sentences and documents (2014)
 - [ ] Glove: Global vectors for word representation (2014)
+- [ ] Enriching Word Vectors with Subword Information (2016.07)
 
 ##### Language Modeling & Generating Text
 - [x] [Recurrent neural network based language model (2010)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Recurrent%20neural%20network%20based%20language%20model.pdf) :star::star:
@@ -73,7 +74,7 @@ My Machine Learning & Deep Learning Papers Notes.
 ##### Sentence classification
 - [ ] Convolutional neural networks for sentence classification (2014):star::star::star::star:
 - [ ] Very Deep Convolutional Networks for Natural Language Processing (2016)(state-of-the-art in text classification) :star::star::star:
-- [ ] Bag of Tricks for Efficient Text Classification (2016)(slightly worse than state-of-the-art, but a lot faster) :star::star::star:
+- [ ] Bag of Tricks for Efficient Text Classification (2016.07)(slightly worse than state-of-the-art, but a lot faster) :star::star::star:
 
 ##### Speech Recognition
 - [ ] Towards End-to-End Speech Recognition with Recurrent Neural Networks
