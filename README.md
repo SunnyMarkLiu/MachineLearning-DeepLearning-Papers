@@ -42,7 +42,7 @@ My Machine Learning & Deep Learning Papers Notes.
 - [x] [Distributed representations of words and phrases and their compositionality (2013.10)(word2vec)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Distributed%20representations%20of%20words%20and%20phrases%20and%20their%20compositionality.pdf) :star::star::star::star:
 - [ ] Distributed representations of sentences and documents (2014)
 - [ ] Glove: Global vectors for word representation (2014)
-- [ ] Enriching Word Vectors with Subword Information (2016.07)
+- [ ] Enriching Word Vectors with Subword Information (2016.07)(fasttext)
 
 ##### Language Modeling & Generating Text
 - [x] [Recurrent neural network based language model (2010)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Recurrent%20neural%20network%20based%20language%20model.pdf) :star::star:
