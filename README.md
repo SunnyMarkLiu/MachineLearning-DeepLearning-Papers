@@ -3,8 +3,9 @@ My Machine Learning & Deep Learning Papers Notes.
 
 ## Contents
 ### Machine Learning
-- [x] [Distance-based features in pattern classification (2011) (feature engineering)](https://github.com/SunnyMarkLiu/Papers/blob/master/Machine%20Learning/Distance-based%20features%20in%20pattern%20classification.pdf) :star::star:
 - [x] [A Few Useful Things to Know about Machine Learning (2012) (basic ml concepts)](https://github.com/SunnyMarkLiu/Papers/blob/master/Machine%20Learning/A%20Few%20Useful%20Things%20to%20Know%20about%20Machine%20Learning.pdf) :star::star::star::star::star:
+- [x] [Distance-based features in pattern classification (2011) (feature engineering)](https://github.com/SunnyMarkLiu/Papers/blob/master/Machine%20Learning/Distance-based%20features%20in%20pattern%20classification.pdf) :star::star:
+- [ ] Feature hashing for large scale multitask learning (2009.02)
 
 ### Deep Learning
 - [x] [Understanding the difficulty of training deep feedforward neural networks (2010)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Understanding%20the%20difficulty%20of%20training%20deep%20feedforward%20neural%20networks.pdf) :star::star::star:
@@ -35,6 +36,7 @@ My Machine Learning & Deep Learning Papers Notes.
 #### Natural Language Processing
 - [x] [Preprocessing Techniques for Text Mining - An Overview (2015.05)](https://github.com/SunnyMarkLiu/MachineLearning-DeepLearning-Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Preprocessing%20Techniques%20for%20Text%20Mining%20-%20An%20Overview.pdf) :star::star:
 - [x] [A Primer on Neural Network Models for Natural Language Processing (2015.10)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/A%20Primer%20on%20Neural%20Network%20Models%20for%20Natural%20Language%20Processing.pdf) :star::star::star:
+- [ ] Text understanding from scratch (2015.02)
 - [ ] On the difficulty of training recurrent neural networks
 
 ##### Word Embedding
@@ -72,9 +74,17 @@ My Machine Learning & Deep Learning Papers Notes.
 - [ ] Sequence to sequence learning with neural networks (2014)(Outstanding Work) :star::star::star::star::star:
 
 ##### Sentence classification
-- [ ] Convolutional neural networks for sentence classification (2014):star::star::star::star:
-- [ ] Very Deep Convolutional Networks for Natural Language Processing (2016)(state-of-the-art in text classification) :star::star::star:
-- [ ] Bag of Tricks for Efficient Text Classification (2016.07)(slightly worse than state-of-the-art, but a lot faster) :star::star::star:
+- [ ] Baselines and bigrams: Simple, good sentiment and topic classification (2012)
+- [ ] Convolutional neural networks for sentence classification (2014.08)
+- [ ] Character-level convolutional networks for text classification (2015.09)(char-CNN)
+- [ ] Very Deep Convolutional Networks for Natural Language Processing (2016)(state-of-the-art in text classification)
+- [x] [Bag of Tricks for Efficient Text Classification (2016.07)(fasttext, slightly worse than state-of-the-art, but a lot faster)](https://github.com/SunnyMarkLiu/MachineLearning-DeepLearning-Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Sentence%20classification/Bag%20of%20Tricks%20for%20Efficient%20Text%20Classification.pdf) :star::star::star:
+- [ ] Efficient character-level document classification by combining convolution and recurrent layers (2016.02)(char-CRNN)
+
+##### Convolutional Neural Networks
+- [ ] Convolutional neural networks for sentence classification (2014.08)
+- [ ] Character-level convolutional networks for text classification (2015.09)
+- [ ] Very Deep Convolutional Networks for Natural Language Processing (2016)(state-of-the-art in text classification)
 
 ##### Speech Recognition
 - [ ] Towards End-to-End Speech Recognition with Recurrent Neural Networks
