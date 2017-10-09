@@ -39,28 +39,28 @@ My Machine Learning & Deep Learning Papers Notes.
 
 ##### Word Embedding
 - [ ] Efficient estimation of word representations in vector space (2013)(CBOW, skip-gram) :star::star::star::star:
-- [x] [Distributed representations of words and phrases and their compositionality (2013.10)(word2vec)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Distributed%20representations%20of%20words%20and%20phrases%20and%20their%20compositionality.pdf) :star::star::star::star:
+- [x] [Distributed representations of words and phrases and their compositionality (2013.10)(word2vec)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Word%20Embedding/Distributed%20representations%20of%20words%20and%20phrases%20and%20their%20compositionality.pdf) :star::star::star::star:
 - [ ] Distributed representations of sentences and documents (2014)
 - [ ] Glove: Global vectors for word representation (2014)
-- [x] [Enriching Word Vectors with Subword Information (2016.07)(fasttext)](https://github.com/SunnyMarkLiu/MachineLearning-DeepLearning-Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Enriching%20Word%20Vectors%20with%20Subword%20Information.pdf) :star::star::star:
+- [x] [Enriching Word Vectors with Subword Information (2016.07)(fasttext)](https://github.com/SunnyMarkLiu/MachineLearning-DeepLearning-Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Word%20Embedding/Enriching%20Word%20Vectors%20with%20Subword%20Information.pdf) :star::star::star:
 
 ##### Language Modeling & Generating Text
-- [x] [Recurrent neural network based language model (2010)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Recurrent%20neural%20network%20based%20language%20model.pdf) :star::star:
-- [x] [Extensions of Recurrent neural network based language model (2011.06)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Extensions%20of%20Recurrent%20neural%20network%20based%20language%20model.pdf) :star::star:
-- [x] [Generating Text with Recurrent Neural Networks (2011)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Generating%20Text%20with%20Recurrent%20Neural%20Networks.pdf) :star::star::star:
-- [x] [Generating sequences with recurrent neural networks (2013.08)(LSTM, show the power of RNN)](https://github.com/SunnyMarkLiu/MachineLearning-DeepLearning-Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Generating%20Sequences%20With%20Recurrent%20Neural%20Networks.pdf) :star::star::star::star:
+- [x] [Recurrent neural network based language model (2010)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Language%20Modeling%20%26%20Generating%20Text/Recurrent%20neural%20network%20based%20language%20model.pdf) :star::star:
+- [x] [Extensions of Recurrent neural network based language model (2011.06)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Language%20Modeling%20%26%20Generating%20Text/Extensions%20of%20Recurrent%20neural%20network%20based%20language%20model.pdf) :star::star:
+- [x] [Generating Text with Recurrent Neural Networks (2011)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Language%20Modeling%20%26%20Generating%20Text/Generating%20Text%20with%20Recurrent%20Neural%20Networks.pdf) :star::star::star:
+- [x] [Generating sequences with recurrent neural networks (2013.08)(LSTM, show the power of RNN)](https://github.com/SunnyMarkLiu/MachineLearning-DeepLearning-Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Language%20Modeling%20%26%20Generating%20Text/Generating%20Sequences%20With%20Recurrent%20Neural%20Networks.pdf) :star::star::star::star:
 - [ ] A convolutional neural network for modeling sentences (2014.04)
 - [ ] Character-Aware Neural Language Models (2015.08)
 
 ##### Recurrent Neural Networks
 - [ ] Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks (2006.icml)
-- [x] [Bidirectional Recurrent Neural Networks (1997)](https://github.com/SunnyMarkLiu/MachineLearning-DeepLearning-Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Bidirectional%20Recurrent%20Neural%20Networks.pdf) :star::star:
-- [x] [Speech Recognition with Deep Recurrent Neural Networks (2013.03)(Deep Bidirectional RNNs)](https://github.com/SunnyMarkLiu/MachineLearning-DeepLearning-Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Speech%20Recognition%20with%20Deep%20Recurrent%20Neural%20Networks.pdf) :star::star::star::star:
+- [x] [Bidirectional Recurrent Neural Networks (1997)](https://github.com/SunnyMarkLiu/MachineLearning-DeepLearning-Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Recurrent%20Neural%20Networks%0A%0A/Bidirectional%20Recurrent%20Neural%20Networks.pdf) :star::star:
+- [x] [Speech Recognition with Deep Recurrent Neural Networks (2013.03)(Deep Bidirectional RNNs)](https://github.com/SunnyMarkLiu/MachineLearning-DeepLearning-Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Recurrent%20Neural%20Networks%0A%0A/Speech%20Recognition%20with%20Deep%20Recurrent%20Neural%20Networks.pdf) :star::star::star::star:
 - [ ] Recurrent Convolutional Neural Networks for Scene Parsing (2013.06)
-- [x] [How to Construct Deep Recurrent Neural Networks (2013.12)](https://github.com/SunnyMarkLiu/MachineLearning-DeepLearning-Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/How%20to%20Construct%20Deep%20Recurrent%20Neural%20Networks.pdf) :star::star::star::star:
+- [x] [How to Construct Deep Recurrent Neural Networks (2013.12)](https://github.com/SunnyMarkLiu/MachineLearning-DeepLearning-Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Recurrent%20Neural%20Networks%0A%0A/How%20to%20Construct%20Deep%20Recurrent%20Neural%20Networks.pdf) :star::star::star::star:
 - [ ] A Clockwork RNN (2014.02)
 - [ ] Learning phrase representations using rnn encoder-decoder for statistical machine translation (2014.06)(GRU)
-- [x] [Recurrent Neural Network Regularization (2014.09)](https://github.com/SunnyMarkLiu/MachineLearning-DeepLearning-Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Recurrent%20Neural%20Network%20Regularization.pdf) :star::star::star:
+- [x] [Recurrent Neural Network Regularization (2014.09)](https://github.com/SunnyMarkLiu/MachineLearning-DeepLearning-Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Recurrent%20Neural%20Networks%0A%0A/Recurrent%20Neural%20Network%20Regularization.pdf) :star::star::star:
 - [ ] Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling (2014.12)(LSTM vs GRU)
 - [ ] Gated Feedback Recurrent Neural Networks (GF-RNN)(2015.02)
 - [ ] Deep Gate Recurrent Neural Network (2016)(SGU, DSGU)
