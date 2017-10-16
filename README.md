@@ -75,7 +75,7 @@ My Machine Learning & Deep Learning Papers Notes.
 
 ##### Sentence classification
 - [ ] Baselines and bigrams: Simple, good sentiment and topic classification (2012)
-- [ ] Convolutional neural networks for sentence classification (2014.08)
+- [x] [Convolutional neural networks for sentence classification (2014.08)](https://github.com/SunnyMarkLiu/MachineLearning-DeepLearning-Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Sentence%20classification/Convolutional%20Neural%20Networks%20for%20Sentence%20Classification.pdf)  :star::star::star:
 - [ ] Character-level convolutional networks for text classification (2015.09)(char-CNN)
 - [ ] Very Deep Convolutional Networks for Natural Language Processing (2016)(state-of-the-art in text classification)
 - [x] [Bag of Tricks for Efficient Text Classification (2016.07)(fasttext, slightly worse than state-of-the-art, but a lot faster)](https://github.com/SunnyMarkLiu/MachineLearning-DeepLearning-Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Sentence%20classification/Bag%20of%20Tricks%20for%20Efficient%20Text%20Classification.pdf) :star::star::star:
