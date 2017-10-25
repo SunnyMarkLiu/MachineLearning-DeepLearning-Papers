@@ -81,7 +81,7 @@ My Machine Learning & Deep Learning Papers Notes.
 - [ ] Effective use of word order for text categorization with convolutional neural networks (2014.12)
 - [ ] Character-level convolutional networks for text classification (2015.09)(char-CNN)
 - [ ] Semantic Clustering and Convolutional Neural Network for Short Text Categorization (2015)
-- [ ] [A Sensitivity Analysis of (and Practitioners’ Guide to) Convolutional Neural Networks for Sentence Classification (2015.10)]()
+- [ ] [A Sensitivity Analysis of (and Practitioners’ Guide to) Convolutional Neural Networks for Sentence Classification (2015.10)]() :star::star::star::star:
 - [ ] Very Deep Convolutional Networks for Natural Language Processing (2016)(state-of-the-art in text classification)
 - [x] [Bag of Tricks for Efficient Text Classification (2016.07)(fasttext, slightly worse than state-of-the-art, but a lot faster)](https://github.com/SunnyMarkLiu/MachineLearning-DeepLearning-Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Sentence%20classification/Bag%20of%20Tricks%20for%20Efficient%20Text%20Classification.pdf) :star::star::star:
 - [ ] Efficient character-level document classification by combining convolution and recurrent layers (2016.02)(char-CRNN)
