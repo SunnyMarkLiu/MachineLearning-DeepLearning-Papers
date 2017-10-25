@@ -1,4 +1,4 @@
-# Papers
+# Machine Learning & Deep Learning Paper Notes
 My Machine Learning & Deep Learning Papers Notes.
 
 ## Contents
@@ -11,6 +11,7 @@ My Machine Learning & Deep Learning Papers Notes.
 - [x] [Understanding the difficulty of training deep feedforward neural networks (2010)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Understanding%20the%20difficulty%20of%20training%20deep%20feedforward%20neural%20networks.pdf) :star::star::star:
 - [ ] On the importance of initialization and momentum in deep learning (2013)
 - [ ] Accelerating learning via knowledge transfer (2016)(Net2net)
+- [ ] The effects of hyperparameters on sgd training of neural networks
 
 #### Computer Vision
 - [x] [ImageNet classification with deep convolutional neural networks (2012) (AlexNet, Deep Learning Breakthrough)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Computer%20Vision/ImageNet%20classification%20with%20deep%20convolutional%20neural%20networks.pdf) :star::star::star::star::star:
@@ -38,6 +39,7 @@ My Machine Learning & Deep Learning Papers Notes.
 - [x] [A Primer on Neural Network Models for Natural Language Processing (2015.10)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/A%20Primer%20on%20Neural%20Network%20Models%20for%20Natural%20Language%20Processing.pdf) :star::star::star:
 - [ ] Text understanding from scratch (2015.02)
 - [ ] On the difficulty of training recurrent neural networks
+- [ ] A unified architecture for natural language processing: Deep neural networks with multitask learning (2008)
 
 ##### Word Embedding
 - [ ] Efficient estimation of word representations in vector space (2013)(CBOW, skip-gram) :star::star::star::star:
@@ -76,7 +78,10 @@ My Machine Learning & Deep Learning Papers Notes.
 ##### Sentence classification
 - [ ] Baselines and bigrams: Simple, good sentiment and topic classification (2012)
 - [x] [Convolutional neural networks for sentence classification (2014.08)](https://github.com/SunnyMarkLiu/MachineLearning-DeepLearning-Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Sentence%20classification/Convolutional%20Neural%20Networks%20for%20Sentence%20Classification.pdf)  :star::star::star:
+- [ ] Effective use of word order for text categorization with convolutional neural networks (2014.12)
 - [ ] Character-level convolutional networks for text classification (2015.09)(char-CNN)
+- [ ] Semantic Clustering and Convolutional Neural Network for Short Text Categorization (2015)
+- [ ] [A Sensitivity Analysis of (and Practitioners’ Guide to) Convolutional Neural Networks for Sentence Classification (2015.10)]()
 - [ ] Very Deep Convolutional Networks for Natural Language Processing (2016)(state-of-the-art in text classification)
 - [x] [Bag of Tricks for Efficient Text Classification (2016.07)(fasttext, slightly worse than state-of-the-art, but a lot faster)](https://github.com/SunnyMarkLiu/MachineLearning-DeepLearning-Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Sentence%20classification/Bag%20of%20Tricks%20for%20Efficient%20Text%20Classification.pdf) :star::star::star:
 - [ ] Efficient character-level document classification by combining convolution and recurrent layers (2016.02)(char-CRNN)
