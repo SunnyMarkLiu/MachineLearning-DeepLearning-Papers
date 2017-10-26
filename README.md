@@ -91,8 +91,8 @@ My Machine Learning & Deep Learning Papers Notes.
 - [ ] Character-level convolutional networks for text classification (2015.09)
 - [ ] Very Deep Convolutional Networks for Natural Language Processing (2016)(state-of-the-art in text classification)
 
-##### Speech Recognition
-- [ ] Towards End-to-End Speech Recognition with Recurrent Neural Networks
+##### Question Answering
+- [ ] Reading Wikipedia to Answer Open-Domain Questions (2017.04)
 
 ##### Others
 - [ ] Recursive deep models for semantic compositionality over a sentiment treebank (2013) :star::star::star::star:
