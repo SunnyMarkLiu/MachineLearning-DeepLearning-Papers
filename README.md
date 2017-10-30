@@ -67,6 +67,7 @@ My Machine Learning & Deep Learning Papers Notes.
 - [x] [Recurrent Neural Network Regularization (2014.09)](https://github.com/SunnyMarkLiu/MachineLearning-DeepLearning-Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Recurrent%20Neural%20Networks%0A%0A/Recurrent%20Neural%20Network%20Regularization.pdf) :star::star::star:
 - [ ] Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling (2014.12)(LSTM vs GRU)
 - [ ] Gated Feedback Recurrent Neural Networks (GF-RNN)(2015.02)
+- [ ] A Critical Review of Recurrent Neural Networks for Sequence Learning (2015.06) :star::star::star::star::star:
 - [ ] Deep Gate Recurrent Neural Network (2016)(SGU, DSGU)
 
 ##### Machine Translation
