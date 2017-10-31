@@ -92,6 +92,11 @@ My Machine Learning & Deep Learning Papers Notes.
 - [ ] Character-level convolutional networks for text classification (2015.09)
 - [ ] Very Deep Convolutional Networks for Natural Language Processing (2016)(state-of-the-art in text classification)
 
+##### Machine Comprehension
+- [ ] Reading Wikipedia to Answer Open-Domain Questions (2017.04)
+- [ ] Neural Question Answering at BioASQ 5B (2017.06)
+- [ ] Coarse-to-Fine Question Answering for Long Documents (2016.11)
+
 ##### Question Answering
 - [ ] Reading Wikipedia to Answer Open-Domain Questions (2017.04)
 
