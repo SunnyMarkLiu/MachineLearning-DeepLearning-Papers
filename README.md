@@ -6,12 +6,14 @@ My Machine Learning & Deep Learning Papers Notes.
 - [x] [A Few Useful Things to Know about Machine Learning (2012) (basic ml concepts)](https://github.com/SunnyMarkLiu/Papers/blob/master/Machine%20Learning/A%20Few%20Useful%20Things%20to%20Know%20about%20Machine%20Learning.pdf) :star::star::star::star::star:
 - [x] [Distance-based features in pattern classification (2011) (feature engineering)](https://github.com/SunnyMarkLiu/Papers/blob/master/Machine%20Learning/Distance-based%20features%20in%20pattern%20classification.pdf) :star::star:
 - [ ] Feature hashing for large scale multitask learning (2009.02)
+- [ ] Dual Supervised Learning (2017.07) :star::star::star::star::star:
 
 ### Deep Learning
 - [x] [Understanding the difficulty of training deep feedforward neural networks (2010)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Understanding%20the%20difficulty%20of%20training%20deep%20feedforward%20neural%20networks.pdf) :star::star::star:
 - [ ] On the importance of initialization and momentum in deep learning (2013)
 - [ ] Accelerating learning via knowledge transfer (2016)(Net2net)
 - [ ] The effects of hyperparameters on sgd training of neural networks
+- [ ] Dual Supervised Learning (2017.07) :star::star::star::star::star:
 
 #### Computer Vision
 - [x] [ImageNet classification with deep convolutional neural networks (2012) (AlexNet, Deep Learning Breakthrough)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Computer%20Vision/ImageNet%20classification%20with%20deep%20convolutional%20neural%20networks.pdf) :star::star::star::star::star:
@@ -93,12 +95,12 @@ My Machine Learning & Deep Learning Papers Notes.
 - [ ] Very Deep Convolutional Networks for Natural Language Processing (2016)(state-of-the-art in text classification)
 
 ##### Machine Comprehension
+- [ ] Question Answering from Unstructured Text by Retrieval and Comprehension (2017.03)
 - [ ] Reading Wikipedia to Answer Open-Domain Questions (2017.04)
 - [ ] Neural Question Answering at BioASQ 5B (2017.06)
 - [ ] Coarse-to-Fine Question Answering for Long Documents (2016.11)
 
 ##### Question Answering
-- [ ] Reading Wikipedia to Answer Open-Domain Questions (2017.04)
 
 ##### Others
 - [ ] Recursive deep models for semantic compositionality over a sentiment treebank (2013) :star::star::star::star:
