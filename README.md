@@ -85,6 +85,7 @@ My Machine Learning & Deep Learning Papers Notes.
 - [ ] Effective use of word order for text categorization with convolutional neural networks (2014.12)
 - [ ] Character-level convolutional networks for text classification (2015.09)(char-CNN)
 - [ ] Semantic Clustering and Convolutional Neural Network for Short Text Categorization (2015)
+- [ ] ABCNN: Attention-Based Convolutional Neural Network for Modeling Sentence Pairs (2015.12)(Attention-based CNN in NLP) :star::star::star::star:
 - [x] [Recurrent Convolutional Neural Networks for Text Classification (2015)](https://github.com/SunnyMarkLiu/MachineLearning-DeepLearning-Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Text%20Classification/Recurrent%20Convolutional%20Neural%20Networks%20for%20Text%20Classification.pdf) :star::star::star::star:
 - [x] [A Sensitivity Analysis of (and Practitioners’ Guide to) Convolutional Neural Networks for Sentence Classification (2015.10)]() :star::star::star::star:
 - [ ] Very Deep Convolutional Networks for Natural Language Processing (2016)(state-of-the-art in text classification)
