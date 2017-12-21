@@ -42,6 +42,7 @@ My Machine Learning & Deep Learning Papers Notes.
 - [ ] Text understanding from scratch (2015.02)
 - [ ] On the difficulty of training recurrent neural networks
 - [ ] A unified architecture for natural language processing: Deep neural networks with multitask learning (2008)
+- [ ] [Sequence to Sequence Learning with Neural Networks](https://github.com/SunnyMarkLiu/MachineLearning-DeepLearning-Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.pdf) :star::star::star:
 - [ ] Attention Is All You Need (2017.06) :star::star::star::star:
 
 ##### Word Embedding
