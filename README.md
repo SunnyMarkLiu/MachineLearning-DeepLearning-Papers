@@ -35,6 +35,7 @@ My Machine Learning & Deep Learning Papers Notes.
 - [ ] Residual Networks Behave Like Ensembles of Relatively Shallow Networks (2016.05)(interpretation of resnet)
 - [x] [Densely Connected Convolutional Networks (2016.08)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Computer%20Vision/Densely%20Connected%20Convolutional%20Networks.pdf) :star::star::star::star:
 - [x] [Aggregated Residual Transformations for Deep Neural Networks (2016.11) (ResNet-v3, ResNeXt)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Computer%20Vision/Aggregated%20Residual%20Transformations%20for%20Deep%20Neural%20Networks.pdf) :star::star::star:
+- [x] [What Do We Understand About Convolutional Networks (2018.03)](https://github.com/SunnyMarkLiu/MachineLearning-DeepLearning-Papers/blob/master/Deep%20Learning/Computer%20Vision/What%20Do%20We%20Understand%20About%20Convolutional%20Networks.pdf) :star:
 
 #### Natural Language Processing
 - [x] [Preprocessing Techniques for Text Mining - An Overview (2015.05)](https://github.com/SunnyMarkLiu/MachineLearning-DeepLearning-Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Preprocessing%20Techniques%20for%20Text%20Mining%20-%20An%20Overview.pdf) :star::star:
