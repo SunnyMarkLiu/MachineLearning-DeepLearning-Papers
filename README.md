@@ -75,11 +75,21 @@ My Machine Learning & Deep Learning Papers Notes.
 - [ ] A Critical Review of Recurrent Neural Networks for Sequence Learning (2015.06) :star::star::star::star::star:
 - [ ] Deep Gate Recurrent Neural Network (2016)(SGU, DSGU)
 
+##### Convolutional Neural Networks
+- [x] Convolutional neural networks for sentence classification (2014.08)
+- [ ] Character-level convolutional networks for text classification (2015.09)
+- [ ] Very Deep Convolutional Networks for Natural Language Processing (2016)(state-of-the-art in text classification)
+
+##### Attention Mechanism
+- [] [Sequence to Sequence Learning with Neural Networks (2014.09)](https://arxiv.org/abs/1409.3215) :star::star::star::star:
+- [] [Attention and Augmented Recurrent Neural Networks — Distill]()
+- [] [Attention Is All You Need (2017.06)](https://arxiv.org/pdf/1706.03762.pdf) :star::star::star::star:
+
 ##### Machine Translation
 - [ ] A Recursive Recurrent Neural Network for Statistical Machine Translation
 - [ ] Joint Language and Translation Modeling with Recurrent Neural Networks
 - [ ] Learning phrase representations using RNN encoder-decoder for statistical machine translation (2014) :star::star::star::star:
-- [ ] Sequence to sequence learning with neural networks (2014)(Outstanding Work) :star::star::star::star::star:
+- [ ] Sequence to sequence learning with neural networks (2014.09)(Outstanding Work) :star::star::star::star:
 
 ##### Text Classification
 - [ ] Baselines and bigrams: Simple, good sentiment and topic classification (2012)
@@ -95,12 +105,7 @@ My Machine Learning & Deep Learning Papers Notes.
 - [x] [Bag of Tricks for Efficient Text Classification (2016.07)(fasttext, slightly worse than state-of-the-art, but a lot faster)](https://github.com/SunnyMarkLiu/MachineLearning-DeepLearning-Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Text%20Classification/Bag%20of%20Tricks%20for%20Efficient%20Text%20Classification.pdf) :star::star::star:
 - [ ] Efficient character-level document classification by combining convolution and recurrent layers (2016.02)(char-CRNN)
 
-##### Convolutional Neural Networks
-- [x] Convolutional neural networks for sentence classification (2014.08)
-- [ ] Character-level convolutional networks for text classification (2015.09)
-- [ ] Very Deep Convolutional Networks for Natural Language Processing (2016)(state-of-the-art in text classification)
-
-#### Natural Language Inference / Text Matching
+##### Natural Language Inference / Text Matching
 - [Siamese Recurrent Architectures for Learning Sentence Similarity (2016)](http://www.mit.edu/~jonasm/info/MuellerThyagarajan_AAAI16.pdf) :star:
 - [A Decomposable Attention Model for Natural Language Inference (2016.06)](https://arxiv.org/abs/1606.01933) :star::star::star::star:
 - [Enhanced LSTM for Natural Language Inference (2016.07)](https://arxiv.org/abs/1609.06038) :star::star::star::star:
