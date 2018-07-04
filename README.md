@@ -110,6 +110,7 @@ My Machine Learning & Deep Learning Papers Notes.
 - [Siamese Recurrent Architectures for Learning Sentence Similarity (2016)](http://www.mit.edu/~jonasm/info/MuellerThyagarajan_AAAI16.pdf) :star:
 - [A Decomposable Attention Model for Natural Language Inference (2016.06)](https://arxiv.org/abs/1606.01933) :star::star::star::star:
 - [Enhanced LSTM for Natural Language Inference (2016.07)](https://arxiv.org/abs/1609.06038) :star::star::star::star:
+- [Bilateral Multi-Perspective Matching for Natural Language Sentences](https://arxiv.org/pdf/1702.03814.pdf) :star::star::star:
 - [Natural Language Inference over Interaction Space (2017.09)](https://arxiv.org/pdf/1709.04348.pdf) :star::star::star::star:
 - [Semantic Sentence Matching with Densely-connected Recurrent and Co-attentive Information (2018.05)](https://arxiv.org/abs/1805.11360) :star::star::star::star:
 
