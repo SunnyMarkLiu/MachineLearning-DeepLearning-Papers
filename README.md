@@ -52,6 +52,7 @@ My Machine Learning & Deep Learning Papers Notes.
 - [ ] Distributed representations of sentences and documents (2014)
 - [ ] Glove: Global vectors for word representation (2014)
 - [x] [Enriching Word Vectors with Subword Information (2016.07)(fasttext)](https://github.com/SunnyMarkLiu/MachineLearning-DeepLearning-Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Word%20Embedding/Enriching%20Word%20Vectors%20with%20Subword%20Information.pdf) :star::star::star:
+- [x] [Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms (2018.05)](https://arxiv.org/abs/1805.09843) :star:
 
 ##### Language Modeling & Generating Text
 - [x] [Recurrent neural network based language model (2010)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Natural%20Language%20Processing/Language%20Modeling%20%26%20Generating%20Text/Recurrent%20neural%20network%20based%20language%20model.pdf) :star::star:
@@ -109,6 +110,8 @@ My Machine Learning & Deep Learning Papers Notes.
 - [Siamese Recurrent Architectures for Learning Sentence Similarity (2016)](http://www.mit.edu/~jonasm/info/MuellerThyagarajan_AAAI16.pdf) :star:
 - [A Decomposable Attention Model for Natural Language Inference (2016.06)](https://arxiv.org/abs/1606.01933) :star::star::star::star:
 - [Enhanced LSTM for Natural Language Inference (2016.07)](https://arxiv.org/abs/1609.06038) :star::star::star::star:
+- [Natural Language Inference over Interaction Space (2017.09)](https://arxiv.org/pdf/1709.04348.pdf) :star::star::star::star:
+- [Semantic Sentence Matching with Densely-connected Recurrent and Co-attentive Information (2018.05)](https://arxiv.org/abs/1805.11360) :star::star::star::star:
 
 ##### Machine Comprehension
 - [ ] Question Answering from Unstructured Text by Retrieval and Comprehension (2017.03)
