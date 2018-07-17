@@ -10,10 +10,13 @@ My Machine Learning & Deep Learning Papers Notes.
 
 ### Deep Learning
 - [x] [Understanding the difficulty of training deep feedforward neural networks (2010)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Understanding%20the%20difficulty%20of%20training%20deep%20feedforward%20neural%20networks.pdf) :star::star::star:
+- [x] [Improving neural networks by preventing co-adaptation of feature detectors] :star::star::star::star:
 - [ ] On the importance of initialization and momentum in deep learning (2013)
+- [x] Dropout: A Simple Way to Prevent Neural Networks from Overfitting (2014) :star::star::star:
 - [ ] Accelerating learning via knowledge transfer (2016)(Net2net)
 - [ ] The effects of hyperparameters on sgd training of neural networks
 - [ ] Dual Supervised Learning (2017.07) :star::star::star::star::star:
+- [] Searching for Activation Functions 2017.10 :star::star:
 
 #### Computer Vision
 - [x] [ImageNet classification with deep convolutional neural networks (2012) (AlexNet, Deep Learning Breakthrough)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Computer%20Vision/ImageNet%20classification%20with%20deep%20convolutional%20neural%20networks.pdf) :star::star::star::star::star:
@@ -23,6 +26,7 @@ My Machine Learning & Deep Learning Papers Notes.
 - [x] [Return of the devil in the details: delving deep into convolutional nets (2014.05)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Computer%20Vision/Return%20of%20the%20Devil%20in%20the%20Details:%20Delving%20Deep%20into%20Convolutional%20Nets.pdf) :star::star:
 - [x] [Going deeper with convolutions (2014.09) (GoogLeNet, Inception-v1)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Computer%20Vision/Going%20deeper%20with%20convolutions.pdf) :star::star::star::star:
 - [x] [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift (2015.02) (Inception-v2)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Computer%20Vision/Batch%20Normalization:%20Accelerating%20Deep%20Network%20Training%20by%20Reducing%20Internal%20Covariate%20Shift.pdf) :star::star::star::star:
+- [] Delving Deep into Rectifiers  Surpassing Human Level Performance on ImageNet Classification.pdf (2015.02) :star::star::star:
 - [x] [Rethinking the Inception Architecture for Computer Vision (2015.12) (Inception-v3)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Computer%20Vision/Rethinking%20the%20Inception%20Architecture%20for%20Computer%20Vision.pdf) :star::star::star:
 - [x] [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning (2016.02) (Inception-v4, Inception-ResNet)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Computer%20Vision/Inception-v4%2C%20Inception-ResNet%20and%20the%20Impact%20of%20Residual%20Connections%20on%20Learning.pdf) :star::star:
 - [x] [Training Very Deep Networks (2015.07) (Highway Networks)](https://github.com/SunnyMarkLiu/Papers/blob/master/Deep%20Learning/Computer%20Vision/Training%20Very%20Deep%20Networks.pdf) :star::star::star:
